@@ -270,7 +270,6 @@ https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
 #EXTINF: -1 tvg-logo = "https://hostlagarto.com/streaming/wp-content/uploads/2020/07/Chinola-TV-logo-300.png" group-title = "INFANTIL", CHINOLA TV
 https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
 
-#EXTINF: -1 tvg-logo = "https://images.pluto.tv/channels/6054ab20a365c70007e4fd44/colorLogoPNG.png" group-title = "INFANTIL", GARFIELD
 https://service-stitcher.clusters.pluto. rokuChannel & appName = rokuchannel & is_lat = 1 & bmodel = bm1 & content = channel & platform = web & tags = ROKU_CONTENT_TAGS & coppa = false & content_type = livefeed & rdid = channel & genre = ROKU_ADS_CONTENT_GENRE & content_ratingS_estudio y canal
 
 #EXTINF: -1 tvg-logo = "https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png" group-title = "INFANTIL", RETROCARTOONS
