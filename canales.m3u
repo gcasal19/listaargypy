@@ -226,6 +226,23 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
 #EXTINF: -1 tvg-logo = "https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title = "INFANTIL", LATINOKIDS TV
 https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8
 
+#EXTINF: -1 tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQb1bA_qO0lkbTe1dY8KL4DIBb2dq00raPnJdgyzQgHkYmHiH_w82m-lMTILAK, PAGHKYmHiH_w82m-lMtXAK, PgHkYmHiH_w82m-lMtXAK, PgExU6pgrwp=2m-lMtXaK, PgGrPGrP = 222MtXaqUpGrgp =
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "https://pbs.twimg.com/profile_images/823733930016772097/aeaABR9A_400x400.jpg" group-title = "INFANTIL", LOS SIMPSONS
+https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "https://pbs.twimg.com/profile_images/823733930016772097/aeaABR9A_400x400.jpg" group-title = "INFANTIL", LOS SIMPSONS 2
+https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
+
+#EXTINF: -1 tvg-logo = "https://pbs.twimg.com/profile_images/1363736016155258880/LCGweMBi.jpg" group-title = "INFANTIL", EL CHAVO
+https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
+
+#EXTINF: -1 group-title = "INFANTIL 2", PEPPA PIG
+https://www.youtube.com/watch?v=hl_nACnH42w
+
+#EXTINF: -1 TVG-logo = "https://scontent-eze1-1.xx.fbcdn.net/v/t1.6435-9/118379956_785802108889638_6297506329865123191_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHi7uKdTAbdDGug8VeIHlCZOihWqrP1vao6KFaqs_W9qnu1bPD0mTY4o3TvM0ZUFZc&_nc_ohc= Z7-SDEAurKQAX_6p6QV & tn = HJ8v7jDx7SHcWwgn & _nc_ht = scontent-eze1-1.xx & oh = 61402881ca62776de631a3bebf122948 & oe = 61C1DB76 "group-title =" DEPORISTE MARATA ", CANAL
+https://live.admefy.com/live/broad_crimson_c8dfa.m3u8
 #EXTINF: -1 tvg-logo = "https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png" group-title = "ANIME - TEEN", SOUTH PARK
 https://service-stitcher.clusters.pluto. rokuChannel & appName = rokuchannel & is_lat = 1 & bmodel = bm1 & content = channel & platform = web & tags = ROKU_CONTENT_TAGS & coppa = false & content_type = livefeed & rdid = channel & genre = ROKU_ADS_CONTENT_GENRE & content_ratingS_estudio_Canal & ROKUENT_AD
 
